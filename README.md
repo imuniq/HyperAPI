@@ -1,2 +1,2 @@
-# HyperAPI
+# realAPI
 Multipurpose API wrapper
